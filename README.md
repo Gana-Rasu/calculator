@@ -1,3 +1,3 @@
 # calculator
 
-demo link
+demo link - https://marvelous-klepon-ae15f6.netlify.app/
